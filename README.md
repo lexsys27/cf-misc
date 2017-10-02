@@ -40,6 +40,6 @@ Sep 2017
 [13]: https://www.slideshare.net/Pivotal/upgrade-your-infosec-ops-and-dev-teams-with-pcf-112
 [14]: https://www.youtube.com/watch?v=OfwDTYeqHcI
 [15]: https://www.youtube.com/watch?v=DtrFEKsEx9A
-[16]: https://github.com/cloudfoundry-incubator/cf- abacus/tree/v1.0.0
+[16]: https://github.com/cloudfoundry-incubator/cf-abacus/tree/v1.0.0
 [17]: https://lists.cloudfoundry.org/archives/list/cf-dev@lists.cloudfoundry.org/thread/U5ZFXRTQMX7P4AZHZ62XHKNW6QYPIFDW/
 [18]: https://docs.google.com/document/d/1Kix6QzXn8Q2Rbgdl97S4E6xsHUTSfKUQJKrBv7JzAVc/edit#heading=h.p4gzhx2q1ykr
